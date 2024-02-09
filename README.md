@@ -4,7 +4,7 @@ Projeto em Noje.js e Typescript
 para iniciar o projeto é preciso ter instalado em sua maquina o Node.js e o Typescript.
 instale a pasta node_modules com o comanddo // npm init
 
-O projeto ultiliza as seguites bibliotecas:
+### O projeto ultiliza as seguites bibliotecas:
 *Express
 
 
