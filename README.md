@@ -16,11 +16,11 @@ Teremos um usurário cliente e um usuário restaurante (admin)
 Não será nesseçário login
 O clinte envia as informações via formulário // futuramente será implementado um cardapio e uma formulário para as informações de entrega
 informações:
-    *NOME
-    *ENDEREÇO
-    *PEDIDO
-    *TELEFONE
-*obs: no estado atual da aplicação o cliente ainda informa o id e status porém com a implementação do banco de dados estes campus serão gerados automaticamente.
+* NOME
+* ENDEREÇO
+* PEDIDO
+* TELEFONE
+* obs: no estado atual da aplicação o cliente ainda informa o id e status porém com a implementação do banco de dados estes campus serão gerados automaticamente.
 
 ## Usuário Restaurante:
 O usuário restaurante recebe as informações do pedido e consegue alterar os status do pedido alteralo ou até deletalo.
